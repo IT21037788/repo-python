@@ -6,3 +6,5 @@ def name():
     print("Hello " + name)
     
 name()
+
+print("Thi is a test file")
